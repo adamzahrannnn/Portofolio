@@ -1,0 +1,14 @@
+.nav-item{
+   padding: 0 5px;
+
+}
+a :hover{
+    color: black !important;
+}
+.footer{
+    background-color: black;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    margin: 0px;
+}
